@@ -1,0 +1,24 @@
+{
+    "name": "konstantinkoslow/laravel-uuid",
+    "description": "UUID primary key for Laravel Eloquent Models.",
+    "type": "eloquent-extension",
+	"keywords": ["laravel", "eloquent", "model", "uuid", "primary key", "trait"],
+    "homepage": "https://github.com/konstantinkoslow/laravel-uuid",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Konstantin Koslow",
+            "email": "konstantin.koslow@outlook.de",
+            "homepage": "https://github.com/konstantinkoslow"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^5.6",
+        "php": "^7.1.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "KonstantinKoslow\\LaravelUuid\\": "src/"
+        }
+    }
+}
