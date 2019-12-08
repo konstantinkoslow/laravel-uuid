@@ -1,6 +1,6 @@
 # Laravel UUID
 
-UUID primary key for Laravel Eloquent Models.
+Trait for generating UUID primary keys for Laravel Eloquent Models.
 
 ## Installation
 
