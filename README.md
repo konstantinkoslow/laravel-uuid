@@ -1,6 +1,6 @@
 # Laravel UUID
 
-Trait for generating UUID primary keys for Laravel Eloquent Models.
+Trait for generating UUID primary keys for Laravel version 5.6 and higher.
 
 ## Installation
 
